@@ -54,4 +54,7 @@ hs_err_pid*
 atlassian-ide-plugin.xml
 
 # Pre-built markdown files
-*.html
+# *.html
+
+# course info
+*.yaml
